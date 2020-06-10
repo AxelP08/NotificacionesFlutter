@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "638945174902",
+    "firebase_url": "https://notificaciones-31e2e.firebaseio.com",
+    "project_id": "notificaciones-31e2e",
+    "storage_bucket": "notificaciones-31e2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638945174902:android:c1b227a3989ea05dafc657",
+        "android_client_info": {
+          "package_name": "com.axelpantoja.notificaciones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638945174902-uubovne9jhgl7k2ojbj261rg6jkhqroc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGN7qlYym8zpNfCtPrHbyyhQirjPxLcEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638945174902-uubovne9jhgl7k2ojbj261rg6jkhqroc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
